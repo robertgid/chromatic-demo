@@ -1,6 +1,6 @@
-# React TypeScript app, ejected, with Storybook
+# React TypeScript app, ejected, with Bulma and Storybook
 
-This repository is an example of using `create-react-app` with the TypeScript preset, ejecting, and adding Storybook.
+This repository is an example of using `create-react-app` with the TypeScript preset, ejecting, and adding Bulma and Storybook.
 
 ## Available Scripts
 
